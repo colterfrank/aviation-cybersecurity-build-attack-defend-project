@@ -16,3 +16,7 @@ Code to install dependencies:
 ```pip3 install datetime```
 
 ```pip3 install threading```
+
+To execute program download flight2.py and run it using python3 as seen below:
+
+```python3 flight2.py```
